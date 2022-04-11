@@ -8,7 +8,7 @@ Mamy nadzieję że niedługo rozpoczniemy współpracę. Przed nami kolejne spot
 
 ### Wymagania biznesowe
 
-* Chcemy mieć w Excelu listę ze wszystkimi ofertami pracy pasującymi do wyszukiwania “rpa”
+* Chcemy mieć w Excelu listę ze wszystkimi ofertami pracy pasującymi do wyszukiwania “rpa” (w serwisie Pracuj.pl)
 * Lista powinna zawierać:
  * Datę publikacji
  * Tytuł stanowiska
