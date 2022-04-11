@@ -10,10 +10,10 @@ Mamy nadzieję że niedługo rozpoczniemy współpracę. Przed nami kolejne spot
 
 * Chcemy mieć w Excelu listę ze wszystkimi ofertami pracy pasującymi do wyszukiwania “rpa” (w serwisie Pracuj.pl)
 * Lista powinna zawierać:
- * Datę publikacji
- * Tytuł stanowiska
- * Link do stanowiska
- * Chcemy też w tym excelu miec kolumnę z treścią pola “Your responsibilities” która jest na podstronie oferty
+  * Datę publikacji
+  * Tytuł stanowiska
+  * Link do stanowiska
+  * Chcemy też w tym excelu miec kolumnę z treścią pola “Your responsibilities” która jest na podstronie oferty
 
 ### Wymagania niebiznesowe
 
